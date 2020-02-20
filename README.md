@@ -4,6 +4,12 @@ My progress on the Chocolate Vending Machine task after 1 hour.
 
 ## Usage:
 
+To install:
+
+```
+yarn
+```
+
 To run tests:
 
 ```
